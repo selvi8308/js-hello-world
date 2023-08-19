@@ -1,0 +1,7 @@
+/*sample program */
+console .log('hello web design world');
+console.log("hello web ");
+console.log(234);
+console.log("welcome\nlaunchcode\tworld");
+console.log( 23+45);
+    
